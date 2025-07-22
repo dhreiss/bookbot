@@ -1,2 +1,3 @@
 # bookbot
-A program that analyzes novels and prints statistical reports re: word and character usage.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
